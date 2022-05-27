@@ -9,11 +9,9 @@
 
 ---
 
-## Join BlockMagicDev
+## ✨Join BlockMagicDev
 - To join BlockMagicDev please click [here](https://docs.google.com/forms/d/1iTJHe_lo9ZRicn9gmLAAfG9-G4vkO_WePBvAypGrEPM)
-
-## 🔌 Plugins
-
-### BlockMagic
+- 
+## 📦 BlockMagic Projects
 
 - [BMPingTag](https://github.com/BlockMagicDev/BMPingTag)
