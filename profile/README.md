@@ -16,3 +16,4 @@
 
 - [BMPingTag](https://github.com/BlockMagicDev/BMPingTag)
 - [AdvancedItem](https://github.com/BlockMagicDev/AdvancedItem)
+- [BetterBroadcaster](https://github.com/BlockMagicDev/Broadcaster)
