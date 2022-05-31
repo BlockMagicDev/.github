@@ -1,19 +1,9 @@
-# Hello there! 👋
+![BlockMagicDev](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=BlockMagicDev&fontSize=70)
 
-## 👑 Founder & Leader of [@BlockMagic](https://github.com/BlockMagicDev)
-
-- 🔭 | Currently working on [@BlockMagic](https://github.com/BlockMagicDev), Minecraft server related projects and other projects
-- 🌱 | Currently learning many things
-- 👯 | Looking to collaborate with anyone that knows Minecraft servers (PocketMine-MP, Nukkit, BDS, etc.) in BlockMagicDev or in other places
-- 🤔 | Looking for help from anyone that are interested to contribute
-
+- 🔭 | BlockMagicDev is an organization that creates plugins for Minecraft servers (PMMP, BDS, Nukkit, etc.)
+- ✔️ | The organization is in development and you can join
+- ❄️ | We are preparing to create a Minecraft Server software or a plugin that helps to run plugins in other languages
 ---
 
 ## ✨Join BlockMagicDev
-- To join BlockMagicDev please click [here](https://docs.google.com/forms/d/1iTJHe_lo9ZRicn9gmLAAfG9-G4vkO_WePBvAypGrEPM)
-
-## 📦 BlockMagic Projects
-
-- [BMPingTag](https://github.com/BlockMagicDev/BMPingTag)
-- [AdvancedItem](https://github.com/BlockMagicDev/AdvancedItem)
-- [BetterBroadcaster](https://github.com/BlockMagicDev/Broadcaster)
+- 💥 | To join BlockMagicDev please click [here](https://docs.google.com/forms/d/1iTJHe_lo9ZRicn9gmLAAfG9-G4vkO_WePBvAypGrEPM)
