@@ -3,6 +3,7 @@
 - 🔭 | BlockMagicDev is an organization that creates plugins for Minecraft servers (PMMP, BDS, Nukkit, etc.)
 - ✔️ | The organization is in development and you can join
 - ❄️ | We are preparing to create a Minecraft Server software or a plugin that helps to run plugins in other languages
+- 🕸️ | Home Page: https://docs.blockmagicdev.cf/
 ---
 
 ## ✨Join BlockMagicDev
